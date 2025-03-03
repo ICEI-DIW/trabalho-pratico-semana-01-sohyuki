@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Eduardo de Souza Silva
+Matricula: 879983
 
 ## Tela de inspeção com navegador
-
+ <img src="site" alt=""><p>
 
 ## Tela de projeto no Replit
-
+<img src="hello world.png" alt=""><p>
